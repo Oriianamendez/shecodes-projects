@@ -1,0 +1,71 @@
+Body {
+  width: 600px;
+  margin: 100px auto;
+  display: block;
+  font-family: "Gill Sans", sans-serif;
+}
+small {
+  font-size: 20px;
+}
+.city {
+  color: blue;
+}
+
+.caracas {
+  margin-top: 20px;
+  font-size: 30px;
+  margin-bottom: 0;
+  color: #636b7d;
+  margin-bottom: -2px;
+}
+.today,
+.clear,
+.precipitation {
+  font-size: 15px;
+  color: #636b7d;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+.precipitation {
+  margin-top: 15px;
+}
+
+.form-control {
+  width: 300px;
+  margin-top: 10px;
+  padding: 10px 10px;
+  border-radius: 0;
+  color: #636b7d;
+  font-size: 18px;
+  display: inline;
+}
+.btn-primary,
+.btn-success {
+  width: 100px;
+  padding: 10px 10px;
+  margin-bottom: 3px;
+  margin-left: 2px;
+  margin-right: 2px;
+  border-radius: 0;
+  font-size: 18px;
+  display: inline;
+}
+.list-group-item {
+  width: 90px;
+  text-align: center;
+  color: rgb(160, 160, 160);
+}
+.list-group {
+  margin: 10px auto;
+}
+.actual {
+  font-size: 55px;
+}
+.sun {
+  font-size: 30px;
+  margin-top: 10px;
+}
+.celsius,
+.fahrenheit {
+  text-decoration: none;
+}
